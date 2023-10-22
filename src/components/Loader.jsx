@@ -1,4 +1,4 @@
-'use client'
+
 import { Html, useProgress } from '@react-three/drei'
 const Loader = () => {
   const { progress } = useProgress();

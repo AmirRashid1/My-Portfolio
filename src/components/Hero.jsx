@@ -1,4 +1,4 @@
-'use client'
+
 import { styles } from '../styles';
 import { ComputersCanvas } from './canvas';
 import { motion } from 'framer-motion';

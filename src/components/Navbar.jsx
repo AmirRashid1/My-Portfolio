@@ -1,4 +1,4 @@
-'use client'
+
 import React, { useState } from 'react';
 import { Link, BrowserRouter } from 'react-router-dom';
 import { styles } from '../styles';
